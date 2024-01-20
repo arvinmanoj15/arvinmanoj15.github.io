@@ -33,13 +33,13 @@ Hello! I'm Arvin, an avid technologist specializing in Embedded Systems and Robo
 ### 💼 Work Experience
 
 #### Student Researcher (Part-Time)
-**Smart Centre Cambridge**  
+**Smart Centre, Cambridge, ON**  
 _September 2023 - December 2023_
 - Enhanced the capabilities of an autonomous robot, focusing on improving navigation and environmental awareness.
 - Contributed to research and development, utilizing expertise in Robot Operating System (ROS), C++, and Shell scripting.
 
 #### Student Researcher (Co-op, Full-Time)
-**Smart Centre Cambridge**  
+**Smart Centre, Cambridge, ON**  
 _May 2023 - August 2023_
 - Collaborated on the development of an autonomous robot, integrating UR5 and Clear Path Ridgeback platforms.
 - Integrated advanced technologies like ROS, C++, and Shell scripting to enhance the robot's functionality and performance.
